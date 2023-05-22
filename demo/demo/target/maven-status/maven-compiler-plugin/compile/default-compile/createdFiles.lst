@@ -1,0 +1,3 @@
+com\mongodbapp\demo\UserRepository.class
+com\mongodbapp\demo\User.class
+com\mongodbapp\demo\UserDatabaseApplication.class
